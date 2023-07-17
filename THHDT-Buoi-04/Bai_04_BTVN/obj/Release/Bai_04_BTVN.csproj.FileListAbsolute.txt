@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_04_BTVN\Bai_04_BTVN\bin\Release\Bai_04_BTVN.exe.config
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_04_BTVN\Bai_04_BTVN\bin\Release\Bai_04_BTVN.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_04_BTVN\Bai_04_BTVN\bin\Release\Bai_04_BTVN.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_04_BTVN\Bai_04_BTVN\obj\Release\Bai_04_BTVN.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_04_BTVN\Bai_04_BTVN\obj\Release\Bai_04_BTVN.pdb

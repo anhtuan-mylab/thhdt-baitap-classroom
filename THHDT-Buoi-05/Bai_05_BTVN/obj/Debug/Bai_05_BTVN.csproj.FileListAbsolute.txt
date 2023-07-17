@@ -1,0 +1,21 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\Bai_05_BTVN\Bai_05_BTVN\bin\Debug\Bai_05_BTVN.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\Bai_05_BTVN\Bai_05_BTVN\bin\Debug\Bai_05_BTVN.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\Bai_05_BTVN\Bai_05_BTVN\bin\Debug\Bai_05_BTVN.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\Bai_05_BTVN\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\Bai_05_BTVN\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\Bai_05_BTVN\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_05_BTVN\Bai_05_BTVN\bin\Debug\Bai_05_BTVN.exe.config
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_05_BTVN\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_05_BTVN\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_05_BTVN\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_05_BTVN\Bai_05_BTVN\bin\Debug\Bai_05_BTVN.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_05_BTVN\Bai_05_BTVN\bin\Debug\Bai_05_BTVN.pdb
+E:\2_Share_Folder_Network\mon_hoc\lt_huong_doi_tuong_[th]\buoi_06\06_2033200113_PhungTanSang_05\Bai_05_BTVN\bin\Debug\Bai_05_BTVN.exe.config
+E:\2_Share_Folder_Network\mon_hoc\lt_huong_doi_tuong_[th]\buoi_06\06_2033200113_PhungTanSang_05\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.exe
+E:\2_Share_Folder_Network\mon_hoc\lt_huong_doi_tuong_[th]\buoi_06\06_2033200113_PhungTanSang_05\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.pdb
+E:\2_Share_Folder_Network\mon_hoc\lt_huong_doi_tuong_[th]\buoi_06\06_2033200113_PhungTanSang_05\Bai_05_BTVN\bin\Debug\Bai_05_BTVN.exe
+E:\2_Share_Folder_Network\mon_hoc\lt_huong_doi_tuong_[th]\buoi_06\06_2033200113_PhungTanSang_05\Bai_05_BTVN\bin\Debug\Bai_05_BTVN.pdb
+E:\2_Share_Folder_Network\mon_hoc\lt_huong_doi_tuong_[th]\buoi_06\06_2033200113_PhungTanSang_05\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.csprojResolveAssemblyReference.cache
+C:\Users\anhtuan\Desktop\THHDT-Buoi-05\Bai_05_BTVN\bin\Debug\Bai_05_BTVN.exe.config
+C:\Users\anhtuan\Desktop\THHDT-Buoi-05\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.exe
+C:\Users\anhtuan\Desktop\THHDT-Buoi-05\Bai_05_BTVN\obj\Debug\Bai_05_BTVN.pdb

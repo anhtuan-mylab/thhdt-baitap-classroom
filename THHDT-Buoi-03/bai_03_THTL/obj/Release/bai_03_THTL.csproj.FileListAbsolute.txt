@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\bin\Release\bai_03_THTL.exe.config
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\bin\Release\bai_03_THTL.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\bin\Release\bai_03_THTL.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\obj\Release\bai_03_THTL.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\obj\Release\bai_03_THTL.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\obj\Release\bai_03_THTL.csprojResolveAssemblyReference.cache

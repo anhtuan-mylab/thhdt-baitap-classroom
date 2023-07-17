@@ -1,0 +1,18 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\bai_03_THTL\bai_03_THTL\bin\Debug\bai_03_THTL.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\bai_03_THTL\bai_03_THTL\obj\Debug\bai_03_THTL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\bai_03_THTL\bai_03_THTL\bin\Debug\bai_03_THTL.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\bai_03_THTL\bai_03_THTL\bin\Debug\bai_03_THTL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\bai_03_THTL\bai_03_THTL\obj\Debug\bai_03_THTL.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\bai_03_THTL\bai_03_THTL\obj\Debug\bai_03_THTL.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\bin\Debug\bai_03_THTL.exe.config
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\obj\Debug\bai_03_THTL.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\obj\Debug\bai_03_THTL.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\bin\Debug\bai_03_THTL.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\bin\Debug\bai_03_THTL.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\bai_03_THTL\bai_03_THTL\obj\Debug\bai_03_THTL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\bai_03_THTL\bai_03_THTL\bin\Debug\bai_03_THTL.exe.config
+C:\Users\Administrator\Desktop\New folder\bai_03_THTL\bai_03_THTL\obj\Debug\bai_03_THTL.exe
+C:\Users\Administrator\Desktop\New folder\bai_03_THTL\bai_03_THTL\obj\Debug\bai_03_THTL.pdb
+C:\Users\anhtuan\Desktop\THHDT-Buoi-03\bai_03_THTL\bin\Debug\bai_03_THTL.exe.config
+C:\Users\anhtuan\Desktop\THHDT-Buoi-03\bai_03_THTL\obj\Debug\bai_03_THTL.exe
+C:\Users\anhtuan\Desktop\THHDT-Buoi-03\bai_03_THTL\obj\Debug\bai_03_THTL.pdb

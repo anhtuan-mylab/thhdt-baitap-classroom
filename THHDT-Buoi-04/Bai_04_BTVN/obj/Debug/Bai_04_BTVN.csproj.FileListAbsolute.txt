@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\buoi_06\Bai_04_BTVN\Bai_04_BTVN\bin\Debug\Bai_04_BTVN.exe.config
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_04_BTVN\Bai_04_BTVN\bin\Debug\Bai_04_BTVN.exe.config
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_04_BTVN\Bai_04_BTVN\bin\Debug\Bai_04_BTVN.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_04_BTVN\Bai_04_BTVN\bin\Debug\Bai_04_BTVN.pdb
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_04_BTVN\Bai_04_BTVN\obj\Debug\Bai_04_BTVN.exe
+E:\LuuDuLieuSinhVien\2033200113_PhungTanSang\buoi_06\Bai_04_BTVN\Bai_04_BTVN\obj\Debug\Bai_04_BTVN.pdb
+C:\Users\anhtuan\Desktop\THHDT-Buoi-04\Bai_04_BTVN\bin\Debug\Bai_04_BTVN.exe.config
+C:\Users\anhtuan\Desktop\THHDT-Buoi-04\Bai_04_BTVN\obj\Debug\Bai_04_BTVN.exe
+C:\Users\anhtuan\Desktop\THHDT-Buoi-04\Bai_04_BTVN\obj\Debug\Bai_04_BTVN.pdb
